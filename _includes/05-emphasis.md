@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*:sparkles:*
+_:sparkles:_
+
+**:sparkles:**
+__:sparkles:__
+
+_You **:sparkles:** combine them_
